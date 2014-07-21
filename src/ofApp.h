@@ -1,3 +1,17 @@
+/*
+ -----------------------------------------------------------------
+ SPECTRAL
+ -----------------------------------------------------------------
+ BY HUBRIS [cargocollective.com/hubris]
+ LISBON á APRIL 2014
+ -----------------------------------------------------------------
+ FINAL VERSION
+ -----------------------------------------------------------------
+ USING THE FOLLOWING ADD-ON:
+ ofxPostProcessing [http://www.neilmendoza.com/ofxpostprocessing/]
+ -----------------------------------------------------------------
+ */
+
 #pragma once
 
 #include "ofMain.h"
