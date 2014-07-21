@@ -13,3 +13,8 @@ Based on the "atomic fingerprint". Music as sculpture, removing from the silence
 This program was possible thanks to Denis Perevalov's [Mastering openFrameworks ](http://masteringof.wordpress.com). Check the video at [Vimeo](https://vimeo.com/93052927).  
 
 ---
+
+
+#### Stills
+![Spectral Still #1](https://farm6.staticflickr.com/5587/14706770354_b9c3137d3b_o.png)
+![Spectral Still #2](https://farm4.staticflickr.com/3904/14706770344_5e27a14220_o.png)
