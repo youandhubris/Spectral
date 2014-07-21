@@ -16,5 +16,5 @@ This program was possible thanks to Denis Perevalov's [Mastering openFrameworks 
 
 
 #### Stills
-![Spectral Still #1](https://farm6.staticflickr.com/5587/14706770354_b9c3137d3b_o.png)
-![Spectral Still #2](https://farm4.staticflickr.com/3904/14706770344_5e27a14220_o.png)
+![Spectral Still #1](https://farm6.staticflickr.com/5571/14523367888_188be8ac22_o.png)
+![Spectral Still #2](https://farm3.staticflickr.com/2928/14523359829_2a3f40a49b_o.png)
