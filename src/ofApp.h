@@ -12,20 +12,13 @@ public:
     void update();
     void draw();
     
-    // scene stuff
+    // Post-processing
     ofxPostProcessing post;
     ofEasyCam cam;
     
-    // sound
-    ofSoundPlayer sound;  //Sound sample
-    const int N = 400;     //Number of bands in spectrum
-    float spectrum[ 400 ];   //Smoothed spectrum values
-    
-    
+    // Sound
+    ofSoundPlayer sound;
+    const int N = 400;
+    float spectrum[ 400 ];
     ofColor color;
-
-    
-    // save as tga
-    ofImage myImage;
-    int snapCounter;
 };
